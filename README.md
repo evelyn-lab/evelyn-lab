@@ -37,8 +37,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evelyn-lab&count_private=true&show_icons=true&theme=prussian" width="400">
-<br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn-lab&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</div>
+# <div style="text-align: center">
+#  <img src="https://github-readme-stats.vercel.app/api?username=evelyn-lab&count_private=true&show_icons=true&theme=prussian" width="400">
+# <br />
+#  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn-lab&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+# </div>
