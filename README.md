@@ -37,7 +37,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-...banner image...
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=evelyn-lab&count_private=true&show_icons=true&theme=prussian" width="400">
 <br />
