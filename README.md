@@ -3,7 +3,7 @@
 👩🏻‍🎓 Studying Computer Science at the HSE University <br/>
 💭 Currently digging more into machine learning and deep learning <br/>
 
-# 💻 My Tech Steck
+## 💻 My Tech Steck
 ### Languages:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
